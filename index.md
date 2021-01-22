@@ -1,6 +1,6 @@
-# Host static Site here with P5JS
+# The Idea...
 
-You can use the [editor on GitHub](https://github.com/abdullahrecon999/P5JS-Adventues/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+So i will try creating a simple multiplayer online game using P5.js and Node.js with socket.io and express...with this all i will try learning vim and github(and git) aswell.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
